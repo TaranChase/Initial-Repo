@@ -9,3 +9,6 @@ Repo used as a walkthrough on Git basics
 
 
 ## These chnages were made in the branched denoted at sdfpt12
+
+## We are want to solve a merge conflict
+
